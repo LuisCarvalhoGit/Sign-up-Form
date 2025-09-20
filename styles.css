@@ -144,7 +144,10 @@ fieldset {
 .form-item input[type=password]:focus {
 
     box-shadow: 4px 4px 3px #E5E7EB;
+    border: 1px rgb(77, 77, 198);
 }
+
+
 
 .form-item input[type=password]:invalid {
 
